@@ -1,0 +1,4 @@
+n=856 n1=797 symmetry/diagonal errors=0
+K_10 exists: no (nodes 538460842)
+independent 12-set exists: no (small-part independent sets enumerated 872, nodes 89246018071)
+PASS: R(10,12) >= 857

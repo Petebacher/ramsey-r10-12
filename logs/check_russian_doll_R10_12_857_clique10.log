@@ -1,0 +1,5 @@
+n=856 edges=167874 symmetric_and_zero_diag=yes
+MODE clique: searching for a clique of size T (complement independence)
+K4 count: skipped (n > 300)
+clique number = 9 (target 10)  nodes=8575349401  cpu=632.7s
+clique of size 10 exists: no

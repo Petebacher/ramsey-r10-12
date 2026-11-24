@@ -1,0 +1,17 @@
+# R(10,12) >= 857: pairing and split for the 856-vertex graph
+# Data for Theorem 3 of Xu, Shao, Radziszowski (SIAM J. Discrete Math. 25 (2011) 394-400). Read by build.py and verify_theorem3.py.
+# Vertices of the finished graph, in order: G (nG vertices), H (nH vertices), then the new vertices z_0 .. z_(m-1).
+k 10
+s 10
+t 3
+nG 797
+nH 39
+# G source: "google" = rows 0..nG-1 of the Google input; "paley" = the Paley graph on nG vertices (nG prime, 1 mod 4), which must equal those rows
+g_source paley
+# H is rows hstart .. hstart+nH-1 of input_google_R10_12_856.txt (0-based, restricted to those columns)
+h_start 797
+# pairs, one per new vertex z_i, in order: u:v where u is a vertex of G (0-based) and v a vertex of H (0-based within H).
+# The map u -> v is the isomorphism between the common induced subgraph M inside G and the copy of M inside H.
+pairs 441:0 751:1 744:2 394:4 238:5 212:6 150:9 378:10 706:11 685:20 534:22 276:24 586:25 760:26 649:29 689:30 15:31 633:33 146:34 202:38
+# split of M: W1 lists pair numbers (positions in the list above); W2 is all the other pair numbers
+W1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18

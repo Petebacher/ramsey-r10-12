@@ -1,0 +1,11 @@
+{
+  "repo": "ramsey-r10-12",
+  "title": "R(10,12) >= 857: an 856-vertex Ramsey graph",
+  "description": "<p>A graph on 856 vertices with no K<sub>10</sub> and no independent set of size 12. It raises the lower bound for the Ramsey number R(10,12) from 856 (Google Research, the best public bound we could find as of 24 November 2026) to 857.</p><p>It is built by Theorem 3 of Xu, Shao and Radziszowski (SIAM J. Discrete Math. 25 (2011)) from the Paley graph on 797 vertices and a 39-vertex block of Google Research's R(10,12) graph, with a larger common induced subgraph of 20 vertices and a valid split found by search. The hypotheses are machine-checked, and the finished graph is checked directly by independently written exact programs.</p>",
+  "version": "1.0",
+  "creators": [{"name": "Chrisbacher, Peter J."}],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "keywords": ["Ramsey numbers", "lower bounds", "R(10,12)", "graph construction", "gluing construction"],
+  "release_notes": "R(10,12) >= 857 (856-vertex graph), by Theorem 3 of Xu, Shao and Radziszowski (2011) with a new 20-vertex common part and split.\nIncludes the input, the pairing and split file, a standard-library rebuild, a hypothesis verifier, exact checkers and reproduce.sh."
+}

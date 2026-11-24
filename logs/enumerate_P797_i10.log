@@ -1,0 +1,14 @@
+file=t3_10_856_s23.txt.fableG.txt
+n=797 edges=158603 symmetric=yes zero_diag=yes mode=independent sets T=10 threads=24
+number of independent sets of size 1: 797
+number of independent sets of size 2: 158603
+number of independent sets of size 3: 10467798
+number of independent sets of size 4: 255350830
+number of independent sets of size 5: 2410448394
+number of independent sets of size 6: 8866224906
+number of independent sets of size 7: 12305689564
+number of independent sets of size 8: 5858636217
+number of independent sets of size 9: 751778220
+number of independent sets of size 10: 0
+wall=33.7s
+RESULT: independent set of size 10 exists: no

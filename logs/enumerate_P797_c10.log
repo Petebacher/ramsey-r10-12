@@ -1,0 +1,14 @@
+file=t3_10_856_s23.txt.fableG.txt
+n=797 edges=158603 symmetric=yes zero_diag=yes mode=cliques T=10 threads=24
+number of cliques of size 1: 797
+number of cliques of size 2: 158603
+number of cliques of size 3: 10467798
+number of cliques of size 4: 255350830
+number of cliques of size 5: 2410448394
+number of cliques of size 6: 8866224906
+number of cliques of size 7: 12305689564
+number of cliques of size 8: 5858636217
+number of cliques of size 9: 751778220
+number of cliques of size 10: 0
+wall=34.5s
+RESULT: clique of size 10 exists: no

@@ -1,0 +1,14 @@
+file=t3_10_856_s23.txt
+n=856 edges=167874 symmetric=yes zero_diag=yes mode=cliques T=10 threads=24
+number of cliques of size 1: 856
+number of cliques of size 2: 167874
+number of cliques of size 3: 11295827
+number of cliques of size 4: 282363902
+number of cliques of size 5: 2733949397
+number of cliques of size 6: 10318374616
+number of cliques of size 7: 14698738502
+number of cliques of size 8: 7184503977
+number of cliques of size 9: 946813214
+number of cliques of size 10: 0
+wall=45.8s
+RESULT: clique of size 10 exists: no

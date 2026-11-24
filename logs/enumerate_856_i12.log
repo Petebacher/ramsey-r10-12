@@ -1,0 +1,16 @@
+file=t3_10_856_s23.txt
+n=856 edges=167874 symmetric=yes zero_diag=yes mode=independent sets T=12 threads=24
+number of independent sets of size 1: 856
+number of independent sets of size 2: 198066
+number of independent sets of size 3: 17663496
+number of independent sets of size 4: 723996315
+number of independent sets of size 5: 14684342260
+number of independent sets of size 6: 150063651482
+number of independent sets of size 7: 778507630730
+number of independent sets of size 8: 2000335984537
+number of independent sets of size 9: 2314729780443
+number of independent sets of size 10: 1019596238040
+number of independent sets of size 11: 127023891381
+number of independent sets of size 12: 0
+wall=1824.4s
+RESULT: independent set of size 12 exists: no
