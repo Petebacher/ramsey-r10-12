@@ -110,4 +110,4 @@ This work was directed by Peter J. Chrisbacher. The search, construction and che
 
 ## How to cite
 
-See `CITATION.cff`, or cite the Zenodo record for this repository once it is published.
+See `CITATION.cff`, or cite the Zenodo record: doi:10.5281/zenodo.24509068 (version 1.0; the concept DOI 10.5281/zenodo.24509067 covers all versions).
